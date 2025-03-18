@@ -1,0 +1,13 @@
+.git/**
+.github/**
+.gitignore
+.vscode/**
+.vscode-test/**
+node_modules/**
+.eslintrc.json
+.prettierrc
+*.vsix
+*.log
+**/*.map
+**/*.ts
+!**/*.d.ts 

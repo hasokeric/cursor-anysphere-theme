@@ -1,0 +1,40 @@
+{
+  "name": "theme-anysphere",
+  "displayName": "Cursor Anysphere Theme",
+  "description": "The original Anysphere theme for Cursor",
+  "version": "1.0.0",
+  "publisher": "anysphere",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#1a1a1a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasokeric/cursor-anysphere-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "anysphere",
+    "cursor",
+    "color theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Anysphere",
+        "label": "Anysphere Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anysphere-theme.json"
+      }
+    ]
+  }
+}

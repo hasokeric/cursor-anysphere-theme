@@ -2,8 +2,8 @@
   "name": "theme-anysphere",
   "displayName": "Cursor Anysphere Theme",
   "description": "The original Anysphere theme for Cursor",
-  "version": "1.0.0",
-  "publisher": "anysphere",
+  "version": "1.0.1",
+  "publisher": "hkeric",
   "license": "MIT",
   "icon": "assets/icon.png",
   "galleryBanner": {
